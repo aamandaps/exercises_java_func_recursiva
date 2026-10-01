@@ -21,7 +21,7 @@ public class Serie02 {
         // Recursividade
         if (n!=1)
         {
-            soma =  n + FuncRecursiva(n-1); // Soma vai armazenas N + ele mesmo subtraindo 1
+            soma =  n + FuncRecursiva(n-1); // Soma vai armazenar N + ele mesmo subtraindo 1
             return soma;
         }
         else
